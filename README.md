@@ -1,4 +1,10 @@
-<h1> Becca Lee 👋 <a href="https://www.linkedin.com/in/beccajlee/">IT Professional</a></h1>
+<h1> Hi, I'm Becca Lee 👋 - <a href="https://www.linkedin.com/in/beccajlee/">IT Professional</a></h1>
+
+<h2>Information Technology Projects:</h2>
+<b>osTicket (Help Desk Ticketing System)</b>
+<ul>
+  <li>[osTicket: Prerequisites and Installation](https://github.com/beccslee/osticket-prereqs)</li>
+</ul>
 
 <!--
 **beccslee/beccslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
