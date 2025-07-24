@@ -5,7 +5,7 @@
 <b>osTicket (Help Desk Ticketing System)</b>
 <ul>
   <li><a href="https://github.com/beccslee/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
-  <li><a href="https://github.com/beccslee/osticket-prereqs">osTicket: Post-Installation Configuration</a></li>
+  <li><a href="https://github.com/beccslee/osticket-post-install-config">osTicket: Post-Installation Configuration</a></li>
 </ul>
 
 <b>Active Directory</b>
