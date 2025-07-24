@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 <b>osTicket (Help Desk Ticketing System)</b>
 <ul>
-  <li>[osTicket: Prerequisites and Installation](https://github.com/beccslee/osticket-prereqs)</li>
+  <li><a href="https://github.com/beccslee/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
 </ul>
 
 <!--
