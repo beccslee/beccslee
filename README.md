@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1> Becca Lee 👋 <a href="https://www.linkedin.com/in/beccajlee/">IT Professional</a></h1>
 
 <!--
 **beccslee/beccslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
